@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258052270193",
+    "firebase_url": "https://emergency-9fb62.firebaseio.com",
+    "project_id": "emergency-9fb62",
+    "storage_bucket": "emergency-9fb62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258052270193:android:4b3d81c55daace9a",
+        "android_client_info": {
+          "package_name": "akash.com.ambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258052270193-g1gbj5t0ud5pt7jj6o1otlrueov71vs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "akash.com.ambulance",
+            "certificate_hash": "7dcc26f55a721ac6bd9429e4fefd0b4179ecb4f0"
+          }
+        },
+        {
+          "client_id": "258052270193-qftfheb73lc1n5bqpaa194l2g6rqijhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMCO2powWWgiKMJTG0Lj2a8re0HSReOHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258052270193-qftfheb73lc1n5bqpaa194l2g6rqijhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
